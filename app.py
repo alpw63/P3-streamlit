@@ -1,4 +1,5 @@
 import streamlit as st
+import matplotlib as plot
 import pandas as pd
 import numpy as np
 from sklearn.svm import SVC
